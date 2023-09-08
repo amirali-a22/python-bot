@@ -119,11 +119,17 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# Ignore vim files:
+*~
+*.swp
+*.swo
+
 # Environments
 .env
 .venv
 env/
 venv/
+uvenv/
 ENV/
 env.bak/
 venv.bak/
