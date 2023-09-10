@@ -3,7 +3,7 @@ just a python bot
 
 ### make project ready
 
-#### create secrets.json from create secrets.json.sample and fill it with right values
+> create secrets.json from create secrets.json.sample and fill it with right values
 
 ### install requirements
 ```bash
